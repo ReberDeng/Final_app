@@ -1,0 +1,7 @@
+{
+  "common": {
+    "uni.chooseImage.sourceType.album": "album",
+    "uni.chooseImage.sourceType.camera": "camera",
+    "uni.chooseImage.cancel": "cancel"
+  }
+}
